@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1348251546 source:d:\cpp\add_residue\add_residue - new\vec.cpp
+	"vec.h"
+
+1348251560 d:\cpp\add_residue\add_residue - new\vec.h
+	<cmath>
+
+1497088684 source:d:\cpp\add_residue\add_residue - new\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<stdlib.h>
+	<ctime>
+	"vec.h"
+

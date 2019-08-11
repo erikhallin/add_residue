@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Run" />
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2379" topLine="36" />
+		</Cursor>
+		<Folding>
+			<Collapse line="51" />
+			<Collapse line="52" />
+			<Collapse line="122" />
+			<Collapse line="127" />
+			<Collapse line="145" />
+			<Collapse line="154" />
+			<Collapse line="371" />
+			<Collapse line="373" />
+			<Collapse line="383" />
+			<Collapse line="408" />
+			<Collapse line="520" />
+			<Collapse line="522" />
+			<Collapse line="532" />
+			<Collapse line="535" />
+			<Collapse line="539" />
+			<Collapse line="543" />
+			<Collapse line="547" />
+			<Collapse line="609" />
+			<Collapse line="617" />
+			<Collapse line="655" />
+			<Collapse line="660" />
+			<Collapse line="735" />
+			<Collapse line="737" />
+			<Collapse line="745" />
+			<Collapse line="760" />
+			<Collapse line="768" />
+			<Collapse line="894" />
+			<Collapse line="899" />
+			<Collapse line="915" />
+			<Collapse line="929" />
+			<Collapse line="955" />
+			<Collapse line="961" />
+			<Collapse line="967" />
+			<Collapse line="973" />
+			<Collapse line="977" />
+			<Collapse line="981" />
+			<Collapse line="1004" />
+			<Collapse line="1041" />
+			<Collapse line="1063" />
+			<Collapse line="1069" />
+			<Collapse line="1090" />
+			<Collapse line="1096" />
+			<Collapse line="1111" />
+			<Collapse line="1115" />
+			<Collapse line="1124" />
+			<Collapse line="1126" />
+			<Collapse line="1131" />
+			<Collapse line="1140" />
+			<Collapse line="1167" />
+			<Collapse line="1172" />
+			<Collapse line="1194" />
+			<Collapse line="1218" />
+			<Collapse line="1226" />
+			<Collapse line="1228" />
+			<Collapse line="1245" />
+			<Collapse line="1247" />
+		</Folding>
+	</File>
+	<File name="vec.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="468" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
